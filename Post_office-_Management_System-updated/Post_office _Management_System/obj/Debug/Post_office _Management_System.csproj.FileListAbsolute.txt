@@ -1,0 +1,548 @@
+c:\users\laksen nayanajith\documents\visual studio 2012\Projects\Post_office _Management_System\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\exam.NITC\Downloads\Post_office _Management_System\Post_office _Management_System\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\Laksen Nayanajith\Documents\ICT Level 5 NVTA\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+D:\Laksen Nayanajith\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+D:\Laksen Nayanajith\Semester 01\Group project POMS\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\exam.NITC\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\Anuradha\Documents\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Visual Studio vProject\Post_office _Management_System updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\afrin\Desktop\Final Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+D:\Laksen Nayanajith\Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+C:\Users\JUDE RAVEEN\Documents\Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+E:\Finel Group Project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Git\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\exam.NITC\Desktop\Afrin\project\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\Administrator.LAB-01-PC32\Downloads\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 12\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+D:\Laksen Nayanajith\Project\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\POMS Dec 14\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+E:\backup\documents\My Documents\ICT Level 5 NVTI\Group project POMS\Drive update\POMS Dec 15\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\afrin\Desktop\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\afrin\Desktop\VIVA Website - Copy\VIVA\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojAssemblyReference.cache
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.cache
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\JUDE COORAY\Desktop\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.pdb
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csprojResolveAssemblyReference.cache
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Advance_Payment_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Branch_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Customer_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Dashboard.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Designation_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Employee_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Item_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Delivery_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Package_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Payment_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Post_Type_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Properties.Resources.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Sales_Price_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Supplier_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Update.New_Dashboard.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office__Management_System.Vehicle_Details.resources
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.csproj.GenerateResource.Cache
+C:\Users\anura\Downloads\POMS Jan 22\POMS Jan 22\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office_Management_System.sdf
+C:\Users\anura\OneDrive\Desktop\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\bin\Debug\Post_office _Management_System.exe.config
+C:\Users\anura\OneDrive\Desktop\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.exe
+C:\Users\anura\OneDrive\Desktop\POMS Jan 22\Post_office-_Management_System-updated\Post_office _Management_System\obj\Debug\Post_office _Management_System.pdb

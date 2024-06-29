@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A2D9635F-29C2-4B68-93B4-DCF9C9BB2B02}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Post_office__Management_System</RootNamespace>
+    <AssemblyName>Post_office _Management_System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>POMS icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Advance_Payment_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Advance_Payment_Details.Designer.cs">
+      <DependentUpon>Advance_Payment_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BranchDB.cs" />
+    <Compile Include="Branch_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Branch_Details.Designer.cs">
+      <DependentUpon>Branch_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_DB.cs" />
+    <Compile Include="Customer_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Details.Designer.cs">
+      <DependentUpon>Customer_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnect.cs" />
+    <Compile Include="Designation_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Designation_Details.designer.cs">
+      <DependentUpon>Designation_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dsg_DB.cs" />
+    <Compile Include="Employee_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_Details.Designer.cs">
+      <DependentUpon>Employee_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Item_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Item_Details.Designer.cs">
+      <DependentUpon>Item_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PackageDtDB.cs" />
+    <Compile Include="Package_Delivery_DB.cs" />
+    <Compile Include="Package_Delivery_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package_Delivery_Details.Designer.cs">
+      <DependentUpon>Package_Delivery_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Package_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Package_Details.Designer.cs">
+      <DependentUpon>Package_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment_Details.Designer.cs">
+      <DependentUpon>Payment_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostTypeDB.cs" />
+    <Compile Include="Post_office_Management_SystemDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Post_office_Management_SystemDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Post_Type_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Post_Type_Details.Designer.cs">
+      <DependentUpon>Post_Type_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sales_Price_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales_Price_Details.Designer.cs">
+      <DependentUpon>Sales_Price_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier_Details.Designer.cs">
+      <DependentUpon>Supplier_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update\New_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update\New_Dashboard.Designer.cs">
+      <DependentUpon>New_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehicle_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vehicle_Details.Designer.cs">
+      <DependentUpon>Vehicle_Details.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Advance_Payment_Details.resx">
+      <DependentUpon>Advance_Payment_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Branch_Details.resx">
+      <DependentUpon>Branch_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Details.resx">
+      <DependentUpon>Customer_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Designation_Details.resx">
+      <DependentUpon>Designation_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_Details.resx">
+      <DependentUpon>Employee_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Item_Details.resx">
+      <DependentUpon>Item_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package_Delivery_Details.resx">
+      <DependentUpon>Package_Delivery_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Package_Details.resx">
+      <DependentUpon>Package_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment_Details.resx">
+      <DependentUpon>Payment_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Post_Type_Details.resx">
+      <DependentUpon>Post_Type_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales_Price_Details.resx">
+      <DependentUpon>Sales_Price_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier_Details.resx">
+      <DependentUpon>Supplier_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update\New_Dashboard.resx">
+      <DependentUpon>New_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehicle_Details.resx">
+      <DependentUpon>Vehicle_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Post_office_Management_SystemDataSet.xsc">
+      <DependentUpon>Post_office_Management_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Post_office_Management_SystemDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Post_office_Management_SystemDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Post_office_Management_SystemDataSet.xss">
+      <DependentUpon>Post_office_Management_SystemDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee details.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\designation details.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\branch details.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\post type.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package details.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer details.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vehical.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package delivery.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment details.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sales price.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="POMS icon.ico" />
+    <Content Include="Post_office_Management_System.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\branch bg.jpg" />
+    <None Include="Resources\PostType bg.png" />
+    <None Include="Resources\designation bg.jpg" />
+    <None Include="Resources\Customer bg.jpg" />
+    <None Include="Resources\Pacage deliver bg.jpg" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\recycle.png" />
+    <None Include="Resources\PackageDt bg.jpg" />
+    <None Include="Resources\supplier bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.4.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 4.0 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
